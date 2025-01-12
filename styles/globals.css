@@ -2,6 +2,21 @@ h3 {
 	text-align: center;
 }
 
+#result {
+	color: purple;
+}
+
+.page {
+	display: flex;
+	justify-content: center;
+}
+
 .main {
 	justify-items: center;
+	max-width: 70vw;
 }
+
+#canvas {
+	border-style: solid;
+}
+
